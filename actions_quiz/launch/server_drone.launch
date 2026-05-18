@@ -1,3 +1,3 @@
 <launch>
-    <node pkg="actions_quiz" type="drone.py" name="server_drone" output="screen" />
+    <node pkg="actions_quiz" type="server_model.py" name="server_drone" output="screen" />
 </launch>
